@@ -4,7 +4,7 @@
     src: url(Lobster-Regular.ttf) format("ttf");
 }
 body{
-    font-family: Lobster-Regular;
+    font-family: Lobster-Regular,cursive;
 }
 .container{
    width: 100%;
